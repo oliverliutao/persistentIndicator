@@ -1,6 +1,6 @@
 # persistentindicator
 
-A new Flutter project.
+Persistent indicator base on PersistentBottomSheet
 
 ## Getting Started
 
